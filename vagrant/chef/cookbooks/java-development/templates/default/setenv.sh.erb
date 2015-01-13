@@ -1,0 +1,2 @@
+export JAVA_OPTS="$JAVA_OPTS -Djava.rmi.server.hostname=<%= node['java-development']['internal-ipaddress']%> -agentlib:jdwp=transport=dt_socket,address=<%= node['java-development']['jdwp-socket'] %>,suspend=n,server=y"
+export CATALINA_OPTS="-Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote.port=<%= node['java-development']['jmx-remote-port'] %> -Dcom.sun.management.jmxremote.ssl=false -Dcom.sun.management.jmxremote.authenticate=false"
