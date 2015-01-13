@@ -9,7 +9,7 @@ import java.io.IOException;
         urlPatterns = "/fortuneServlet",
         loadOnStartup = 1
 )
-public class HelloServlet extends javax.servlet.http.HttpServlet {
+public class FortuneServlet extends javax.servlet.http.HttpServlet {
 
     @Override
     protected void doGet(javax.servlet.http.HttpServletRequest request, javax.servlet.http.HttpServletResponse response)
