@@ -3,7 +3,13 @@
 Description
 ===========
 
-Configures a virtual server with Tomcat installed to be used on a development workstation with the IntelliJ IDE
+Configures a virtual server with Tomcat installed to be used on a development workstation with the IntelliJ IDE.
+
+**PLEASE NOTE:** The configuration settings in the template `sentenv.sh.erb` open up JXM ports for remote administration
+**in an unsecure manager**. Specifically, the CATALINA_OPTS options jmxremote.ssl and jmxremote.authenticate are both set to false
+which means this configuration is not secure. This is acceptable for a local development environment that is only
+accessible from the host workstation. However, this is not acceptable for staging and definitely not production. Change
+this template for these environments to include SSL and authentication.
 
 Requirements
 ============
