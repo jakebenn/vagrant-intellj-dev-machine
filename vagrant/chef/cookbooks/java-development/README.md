@@ -12,7 +12,7 @@ Platform:
 
 * CentOS
 
-The following Opscode cookbooks are dependencies:
+The following cookbooks are dependencies:
 
 * java
 * tomcat_latest

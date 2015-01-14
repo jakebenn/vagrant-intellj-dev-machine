@@ -84,8 +84,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vagrant/chef/cookbooks/java-development/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30172414" vertical-offset="225" max-vertical-offset="1110">
-              <caret line="29" column="199" selection-start-line="29" selection-start-column="199" selection-end-line="29" selection-end-column="199" />
+            <state vertical-scroll-proportion="0.30172414" vertical-offset="0" max-vertical-offset="1110">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -950,12 +950,12 @@
       <workItem from="1420825153181" duration="2575000" />
       <workItem from="1420909234665" duration="14597000" />
       <workItem from="1421023472676" duration="17139000" />
-      <workItem from="1421198667059" duration="560000" />
+      <workItem from="1421198667059" duration="632000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64887000" />
+    <option name="totallyTimeSpent" value="64959000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1339,8 +1339,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vagrant/chef/cookbooks/java-development/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30172414" vertical-offset="225" max-vertical-offset="1110">
-          <caret line="29" column="199" selection-start-line="29" selection-start-column="199" selection-end-line="29" selection-end-column="199" />
+        <state vertical-scroll-proportion="0.30172414" vertical-offset="0" max-vertical-offset="1110">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding />
         </state>
       </provider>
